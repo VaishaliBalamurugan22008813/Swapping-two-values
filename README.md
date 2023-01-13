@@ -27,11 +27,14 @@ y=int(input())
 temp=x
 x=y
 y=temp
-print("Swapped values are:",x,y
+print("Swapped values are:",x,y)
 ```
 
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
+
+OUTPUT:
+
 
 ![OUTPUTSWAPPING](https://user-images.githubusercontent.com/119390134/212048146-f4af2b6c-6268-4b97-998e-4cc0b84a6a7a.png)
